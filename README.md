@@ -117,6 +117,15 @@ Responda de forma objetiva e técnica às situações abaixo:
 
 ---
 
+### 🧾 SQL (PostgreSQL)
+
+Crie uma **query SQL** que traga o **número total de chamados de suporte abertos por usuário** em uma tabela fictícia com a seguinte estrutura:
+
+tickets(id, user_id, status, opened_at)
+
+
+---
+
 ### ⚛️ Código Frontend (análise básica)
 
 Leia o trecho abaixo e aponte **duas melhorias possíveis**:
@@ -128,14 +137,7 @@ const MyComponent = () => {
     console.log("rendered");
   });
   return <button onClick={() => setCount(count + 1)}>Add</button>;
-};```
+};
 
----
-
-### 🧾 SQL (PostgreSQL)
-
-Crie uma **query SQL** que traga o **número total de chamados de suporte abertos por usuário** em uma tabela fictícia com a seguinte estrutura:
-
-tickets(id, user_id, status, opened_at)
 
 
