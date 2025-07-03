@@ -101,3 +101,39 @@ Responda de forma objetiva e técnica às situações abaixo:
 
 3. O ambiente de rede está apresentando **instabilidade intermitente**.  
    - Quais **comandos e ferramentas** você utilizaria para **detectar e analisar** o problema?
+  
+
+## 💻 Desenvolvimento e Versionamento (Opcional)
+
+### 🧪 Git e GitHub Actions (prático)
+
+1. Crie um **repositório** com um `README.md` explicando:
+   - O propósito do repositório
+   - Como executar os scripts ou containers do teste
+
+2. Configure uma **GitHub Action** que:
+   - Execute **testes automatizados simulados** com `echo "Running tests"`
+   - Execute um **deploy automatizado simulado** com `echo "Deploy"`
+
+---
+
+### ⚛️ Código Frontend (análise básica)
+
+Leia o trecho abaixo e aponte **duas melhorias possíveis**:
+
+```jsx
+const MyComponent = () => {
+  const [count, setCount] = useState(0);
+  useEffect(() => {
+    console.log("rendered");
+  });
+  return <button onClick={() => setCount(count + 1)}>Add</button>;
+};
+
+### 🧾 SQL (PostgreSQL)
+
+Crie uma **query SQL** que traga o **número total de chamados de suporte abertos por usuário** em uma tabela fictícia com a seguinte estrutura:
+
+tickets(id, user_id, status, opened_at)
+
+
