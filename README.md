@@ -1,4 +1,4 @@
-# 🧪 Teste Técnico – Vaga Suporte / Infra / DevOps
+# Teste Técnico – Vaga Suporte / Infra / DevOps
 
 Seja bem-vindo(a)!
 
