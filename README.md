@@ -130,6 +130,8 @@ const MyComponent = () => {
   return <button onClick={() => setCount(count + 1)}>Add</button>;
 };
 
+---
+
 ### 🧾 SQL (PostgreSQL)
 
 Crie uma **query SQL** que traga o **número total de chamados de suporte abertos por usuário** em uma tabela fictícia com a seguinte estrutura:
