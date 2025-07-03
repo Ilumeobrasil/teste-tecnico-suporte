@@ -128,7 +128,7 @@ const MyComponent = () => {
     console.log("rendered");
   });
   return <button onClick={() => setCount(count + 1)}>Add</button>;
-};
+};```
 
 ---
 
