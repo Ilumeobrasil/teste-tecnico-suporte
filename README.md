@@ -66,3 +66,38 @@ Escreva um **shell script** que execute as seguintes tarefas:
 - Verifique se o Docker está instalado na máquina
 - Crie um backup de um volume Docker específico
 - Envie esse backup via `scp` para um servidor remoto (por exemplo: `backup@192.168.0.100`)
+
+
+## 💼 Microsoft 365 – Diagnóstico e Suporte
+
+Responda às seguintes situações com base na sua experiência ou lógica de troubleshooting:
+
+1. Um usuário relata que **não consegue enviar e-mails pelo Outlook**.  
+   - Quais seriam os **primeiros passos para diagnosticar** o problema?
+
+2. Como você **identificaria e corrigiria problemas de login** no portal do **Microsoft 365**?
+
+3. Um **arquivo compartilhado no OneDrive** não está abrindo para um **colaborador externo**.  
+   - O que você verificaria?
+
+4. Um grupo do **Microsoft Teams parou de exibir mensagens**.  
+   - Como você investigaria isso?
+
+5. Um usuário reportou que **não recebeu um e-mail específico**.  
+   - Como você faria para resolver a situação ou para identificar o problema?
+
+---
+
+## 🧩 Suporte Técnico – Diagnóstico de Sistemas e Rede
+
+Responda de forma objetiva e técnica às situações abaixo:
+
+1. Um **computador com Windows** está apresentando **lentidão**.  
+   - Como você faria para **identificar a raiz do problema**?
+
+2. Um **servidor Linux** está apresentando **lentidão**.  
+   - Quais comandos você executaria para identificar os processos que estão em execução?  
+   - Qual seria o **próximo passo** para diagnosticar e resolver a causa do problema?
+
+3. O ambiente de rede está apresentando **instabilidade intermitente**.  
+   - Quais **comandos e ferramentas** você utilizaria para **detectar e analisar** o problema?
